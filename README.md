@@ -3,18 +3,19 @@ This 3D game engine was developed using OpenGL integrated with C++. This applica
 
 # Features
 - Window handling
-- Delta using Query
+- Acquiring delta using Query
 - DXT file loading and texture compression
-- Particle System
+- Particle system
 - 3D and 2D audio
 - Console commandline
 - Text rendering
-- OBJ and FBX support
+- OBJ and DAE support
 - Player elipsoid collision
 - Camera mechanics
-- Custom mesh data to file system
+- Custom mesh data -> to file system
 - PBR with material structure
 - Deferred rendering
+- Ambient lighting
 - Ambient occlusion
 - Bloom
 - Sharpness
