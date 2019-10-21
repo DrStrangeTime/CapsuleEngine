@@ -21,3 +21,4 @@ This 3D game engine was developed using OpenGL integrated with C++. I also used 
 - Point, spot and direction lights
 - FXAA
 - Editor funcions
+- Skybox
