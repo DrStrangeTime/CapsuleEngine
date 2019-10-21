@@ -1,5 +1,5 @@
 # CapsuleEngine
-This 3D game engine was developed using OpenGL integrated with C++. This application utilises venders including GLM for linear algebra, OpenAL for audio and GLEW for access to OpenGL's macro definitions
+This 3D game engine was developed using OpenGL integrated with C++. This application utilises venders including GLM for linear algebra, OpenAL for audio and GLEW for access to OpenGL's macro definitions.
 
 # Features
 - Window handling
